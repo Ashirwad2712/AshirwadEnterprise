@@ -381,7 +381,7 @@ button {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #ffb607;
+    background-color: #300a82;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -499,7 +499,7 @@ button {
 .about_section{
     width: 100%;
     float: left;
-    background-color: #ffb607;
+    background-color: #300a82;
     height: auto;
     padding-bottom: 90px;
 }
@@ -851,7 +851,7 @@ a:hover {
     margin-top: 0px;
 }
 .client_2 {
-    width: 100%;
+    width: 60%;
     float: right;
     border: 1px solid #000;
     padding: 17px 17px 0px 17px;
@@ -875,7 +875,8 @@ a:hover {
 .contact_section {
     width: 100%;
     float: left;
-    background-image: url(../images/contact-bg.png);
+    /* background-image: url(../images/blue.jpg); */
+    background-color: #300a82;
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
